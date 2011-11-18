@@ -15,3 +15,8 @@ Is basically the same as:
     C:\folder> "%PROGRAMFILES%\nodejs\node.exe" "app.js" arg1 [...]
 
 This app does assume Node is installed in a folder named `nodejs` in your system's 32-bit Program Files folder.
+
+Download
+========
+
+If you're just interested in the exe, <a href="https://github.com/downloads/daguej/NodeRunner/NodeRunner.exe">download here</a>.
